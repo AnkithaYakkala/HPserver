@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1712753494,,"wq"
+|2,0,1712755357,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,22 +25,43 @@
 # Registers:
 
 # File marks:
-'0  23  6  ~/waterbottle
-|4,48,23,6,1712753494,"~/waterbottle"
-'1  1  0  ~/londongit
-|4,49,1,0,1712753357,"~/londongit"
+'0  5  5  ~/myfile
+|4,48,5,5,1712755357,"~/myfile"
+'1  23  6  ~/waterbottle
+|4,49,23,6,1712753494,"~/waterbottle"
+'2  1  0  ~/londongit
+|4,50,1,0,1712753357,"~/londongit"
 
 # Jumplist (newest first):
+-'  5  5  ~/myfile
+|4,39,5,5,1712755357,"~/myfile"
+-'  1  0  ~/myfile
+|4,39,1,0,1712755322,"~/myfile"
 -'  23  6  ~/waterbottle
 |4,39,23,6,1712753494,"~/waterbottle"
+-'  23  6  ~/waterbottle
+|4,39,23,6,1712753494,"~/waterbottle"
+-'  1  0  ~/waterbottle
+|4,39,1,0,1712753416,"~/waterbottle"
 -'  1  0  ~/waterbottle
 |4,39,1,0,1712753416,"~/waterbottle"
 -'  1  0  ~/londongit
 |4,39,1,0,1712753357,"~/londongit"
 -'  1  0  ~/londongit
 |4,39,1,0,1712753357,"~/londongit"
+-'  1  0  ~/londongit
+|4,39,1,0,1712753357,"~/londongit"
+-'  1  0  ~/londongit
+|4,39,1,0,1712753357,"~/londongit"
 
 # History of marks within files (newest to oldest):
+
+> ~/myfile
+	*	1712755355	0
+	"	5	5
+	^	5	6
+	.	5	5
+	+	5	5
 
 > ~/waterbottle
 	*	1712753492	0
